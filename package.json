@@ -66,7 +66,7 @@
     "testing"
   ],
   "license": "MIT",
-  "main": "src/index.js",
+  "main": "dist/jasmine-matchers.js",
   "repository": "JamieMason/Jasmine-Matchers",
   "scripts": {
     "browserstack:android": "# karma start karma/browserstack-android.conf.js",
