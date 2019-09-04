@@ -37,6 +37,7 @@ export { toBeValidDate } from './toBeValidDate';
 export { toBeWhitespace } from './toBeWhitespace';
 export { toBeWholeNumber } from './toBeWholeNumber';
 export { toBeWithinRange } from './toBeWithinRange';
+export { toContainSubstring } from './toContainSubstring';
 export { toEndWith } from './toEndWith';
 export { toHaveArray } from './toHaveArray';
 export { toHaveArrayOfBooleans } from './toHaveArrayOfBooleans';
